@@ -3,5 +3,5 @@
 
 
 - 🔭 I’m currently working on Samsung.
-- 🌱 I’m currently learning Android.
+- 🌱 I’m currently learning .NET.
 - 😄 Pronouns: He/Him
